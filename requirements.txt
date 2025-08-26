@@ -5,5 +5,5 @@ google.generativeai
 langchain_google_genai
 faiss-cpu
 nest_asyncio
-speech_recognition
+SpeechRecognition
 uuid
